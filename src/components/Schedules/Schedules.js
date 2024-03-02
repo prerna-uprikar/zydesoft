@@ -67,6 +67,11 @@ function ScheduleWrapper() {
             </div>
          </div>
       </div>
+
+      <div className={styles.foter}>
+        <p className={styles.footerpara}>Sample text. Click to select the Text Element.</p>
+        <p className={styles.footerpara}>CSS Templates created with Free Website Builder.</p>
+      </div>
     </>
   );
 }
