@@ -1,0 +1,123 @@
+.scheduleWrapper {
+  background-image: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(https://assets.nicepagecdn.com/d2cc3eaa/3629861/images/erreerer-min.jpg);
+  background-position: 50% 50%;
+  height: 700px;
+  width: 100%;
+  object-fit: cover;
+  display: block;
+  vertical-align: middle;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.joinPara {
+  margin: 0;
+}
+
+.joinPara {
+  text-align: center;
+  font-size: 40px;
+  padding: 40px;
+  color: white;
+}
+
+.joinpara2 {
+  color: white;
+  width: 45%;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 20px;
+}
+
+.freecpick {
+  color: white !important;
+}
+
+.freepicklink {
+  color: white;
+}
+
+.seeScheduleBtn {
+  color: #111111 !important;
+  background-color: #dfc327;
+  padding: 20px 40px;
+  border: none;
+  border-radius: 40px;
+  cursor: pointer;
+}
+
+.seeScheduleBtn:hover {
+  background-color: white;
+  color: #111111;
+}
+
+.scheduleBtn {
+  margin: 20px 0px;
+}
+
+.scheduleform {
+  background-color: #dfc327;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.contactUsHead {
+  margin: 0;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.borderedDiv {
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+}
+
+.getInTouch{
+    background-color: white;
+     border-radius: 20px;
+     padding: 40px;
+     width: 40%;
+}
+
+.GetInTouchText{
+    font-size: 30px;
+}
+
+.HaveInq{
+    color: black;
+    font-size: 20px;
+}
+
+.input{
+    border: none;
+    width: 100%;
+    border-bottom: 1px solid;
+    padding: 20px;
+    outline: 0;
+}
+
+.submit{
+    background-color: black;
+    border: none;
+    padding: 20px 30px;
+    width: 100%;
+    color: white;
+    border-radius: 30px;
+}
+
+
+.submitwrapper{
+    margin: 30px 0px;
+}
