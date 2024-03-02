@@ -1,0 +1,27 @@
+.lotus{
+    // background-image: url(https://images01.nicepagecdn.com/c461c07a441a5d220e8feb1a/352b95a02a155f489ec4e725/bn.png);
+    width: 50%;
+    height: 200px;
+}
+.yoga{
+    width: 90%;
+    height: 400px;
+}
+.yogaWrapper{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+.lotusHeading{
+    font-size: 50px;
+    font-weight: 700;
+}
+.lotusPara{
+    font-size: 20px;
+    font-weight: 400;
+}
+.lotusButton{
+    padding: 15px 50px;
+    color: gray;
+    border-radius: 30px;
+}
