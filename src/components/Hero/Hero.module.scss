@@ -3,6 +3,9 @@
     // width: 50%;
     height: 150px;
     height: 150px;
+   display: flex;
+   justify-content: center;
+   margin: 0 auto;
 }
 .yoga{
     height: 700px;
@@ -17,18 +20,25 @@
 .lotusHeading{
     font-size: 50px;
     font-weight: 700;
+    text-align: center;
 }
 .lotusPara{
     font-size: 20px;
     font-weight: 400;
+    text-align: center;
 }
 .lotusButton{
     padding: 15px 50px;
-    color: gray;
+    color: black;
     border-radius: 30px;
+    background-color: #f7f7f7;
 }
 .heroSec{
     position: relative;
-    left: 15%;
-    top: 40px;
+    left: 5%;
+    top: 110px;
+}
+.btnWrapper{
+   display: flex;
+   justify-content: center;
 }

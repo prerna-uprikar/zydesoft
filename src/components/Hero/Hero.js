@@ -17,7 +17,9 @@ function Hero() {
           <p className={styles.lotusPara}>
             Image from <a>freepik</a>
           </p>
-          <button className={styles.lotusButton}>READ MORE</button>
+          <div className={styles.btnWrapper}>
+            <button className={styles.lotusButton}>READ MORE</button>
+          </div>
         </div>
 
         <div>
