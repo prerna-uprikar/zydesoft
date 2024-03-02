@@ -1,16 +1,18 @@
 .lotus{
     // background-image: url(https://images01.nicepagecdn.com/c461c07a441a5d220e8feb1a/352b95a02a155f489ec4e725/bn.png);
-    width: 50%;
-    height: 200px;
+    // width: 50%;
+    height: 150px;
+    height: 150px;
 }
 .yoga{
-    width: 90%;
-    height: 400px;
+    height: 700px;
+    width: 100%;
 }
 .yogaWrapper{
     display: flex;
     justify-content: space-around;
     padding-top: 20px;
+    background-color: #f7f7f7;
 }
 .lotusHeading{
     font-size: 50px;
@@ -24,4 +26,9 @@
     padding: 15px 50px;
     color: gray;
     border-radius: 30px;
+}
+.heroSec{
+    position: relative;
+    left: 15%;
+    top: 40px;
 }
